@@ -1,7 +1,7 @@
 # Hi there, I'm Tamonel! 👋
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Tamonel/its-T/main/banner.jpeg" alt="Backend DevOps vibes" width="800"/>
+  <img src="https://raw.githubusercontent.com/Tamonel/its-T/main/banner.jpeg" alt="Backend DevOps vibes" width="600"/>
 </p>
 
 
