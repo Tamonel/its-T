@@ -1,6 +1,6 @@
 # Hi there, I'm Tamonel! 👋
 
-![Banner Image](https://gemini.google.com/app/66aa45117630da55)
+![Banner Image](https://github.com/Tamonel/its-T/blob/main/banner.jpeg)
 
 ## About Me 🚀
 
