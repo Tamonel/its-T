@@ -1,6 +1,9 @@
 # Hi there, I'm Tamonel! 👋
 
-![Banner Image](https://github.com/Tamonel/its-T/blob/main/banner.jpeg)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tamonel/its-T/main/banner.jpeg" alt="Backend DevOps vibes" width="800"/>
+</p>
+
 
 ## About Me 🚀
 
